@@ -1,4 +1,4 @@
-# Burn-the-Ridge
+# Burn the Ridge
 
 Independant game being developed and designed by Mitchell Foo.
 
